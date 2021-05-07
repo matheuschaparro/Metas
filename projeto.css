@@ -1,0 +1,9 @@
+img{height: 500px; width: 400px;border: darkgreen;}
+h1{color: blue;font-family: Arial;font-size: 30px;background-color: cornsilk;}
+h2{color: lawngreen;font-family: Arial;font-size: 25px;}
+body{background-color: darkgrey;border-color: darkslategrey;background-size: auto;}
+table{color: red;background-color: honeydew;}
+table thead{color: blue;}
+p{text-align: justify;font-family: Arial;font-size: 18px;}
+ul{font-size: 15px;font-family: Arial;background-color: gray;}
+ul li{list-style-type: square;list-style-position: outside;}
