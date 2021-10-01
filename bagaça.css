@@ -1,0 +1,53 @@
+h1{font-family:Arial;font-size:60px;background-color:yellow;color:white;text-align:center;margin-top: 10px;
+}
+.container{
+	display:flex;
+	flex-direction:row;
+	font-size:2em;
+	margin:80px;
+	color:white;
+	background-color:black;
+	border:20px;
+	flex-wrap:wrap;
+	
+
+}
+.item{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+	text-align:center;
+}
+body{background-color:blue;
+}
+.introduction{
+	color:white;
+	font-size:1em;
+	font-family:Arial;
+}
+#bagaça{
+    display: inline-block;
+    vertical-align: top;
+    
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    border: thin;
+    color: blanchedalmond;
+}
+.nada{
+    display: inline-block;
+  
+    width: 60%;
+}
+#img{
+    display: block;
+   
+    width: 35%;
+}
+header{
+    color: cornsilk;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+}
